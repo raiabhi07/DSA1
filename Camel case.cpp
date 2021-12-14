@@ -16,7 +16,7 @@ int countWords(string str)
 
 int main()
 {
- string str = "geeksForGeeks";
+ string str = "Tech";
 
  cout << countWords(str);
 
